@@ -18,9 +18,6 @@
   
 </div>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -41,4 +38,4 @@ This is a basic project for studying concepts in freamework react js, among them
 
 ---
 
-Feito com ♥ by Raul Franck :wave: [Entre em contato domigo :)](https://www.linkedin.com/in/raul-franck-468617164/)
+Made with love ♥ by Raul Franck :wave: [Entre em contato domigo :)](https://www.linkedin.com/in/raul-franck-468617164/)
