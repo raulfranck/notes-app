@@ -1,0 +1,9 @@
+.lista-notas-ul {
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.lista-notas-li {
+  width: 25%;
+}
